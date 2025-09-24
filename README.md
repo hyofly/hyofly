@@ -8,7 +8,3 @@ Portfolio coming soon...
 
 There's my [LinkedIn](https://www.linkedin.com/in/joanawilliaume/), feel free to check it!
 
-## GitHub Stats
-![GitHub Stats](stats.png)  
-![Top Languages](langs.png)
-
